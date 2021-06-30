@@ -10,9 +10,10 @@ import App from "./App";
 const Main = () => {
   return (
     <main>
-      <h1 style={{ textAlign: "center", letterSpacing: "2px" }}>
+      <h1 style={{ textAlign: "center", letterSpacing: "2px", color: "white" }}>
         BIRTHDAY REMAINDER
       </h1>
+      <br />
       <App />
     </main>
   );
