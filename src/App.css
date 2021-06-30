@@ -97,3 +97,13 @@ section {
         margin-bottom: 40px;
     }
 }
+
+@media only screen and (max-width: 400px) {
+    section {
+        padding: 1em 1em;
+    }
+    .info img {
+        width: 45px;
+        height: 45px;
+    }
+}
